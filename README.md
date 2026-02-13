@@ -36,7 +36,7 @@ Right-click on the windows start menu and select PowerShell or Terminal.
 
 Copy-paste the below code and press enter:
 
-    iwr -useb https://naeembolchhi.github.io/IDM-Activator/IDMA.ps1 | iex
+    iwr -useb https://PikachuFromBd.github.io/IDM-Activator/IDMA.ps1 | iex
 
 You will see the activation options, and follow onscreen instructions.
 
@@ -97,4 +97,4 @@ That's all.
 | @dbenham | Set buffer height independently of window height |
 |  | stackoverflow\.com/a/13351373 |
 | @ModByPiash | Added and fixed some missing features |
-| @NaeemBolchhi \(Me\) | Improved username generation |
+| @PikachuFromBd \(Me\) | Improved username generation |

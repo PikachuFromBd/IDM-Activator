@@ -372,7 +372,7 @@ echo:
 echo:
 timeout /t 3
 
-start https://github.com/NaeemBolchhi/IDM-Activator
+start https://github.com/PikachuFromBd/IDM-Activator
 goto MainMenu
 
 ::========================================================================================================================================
@@ -863,16 +863,16 @@ Possible accepted values,
 
    @ModByPiash          - Added and fixed some missing features.
    
-   @NaeemBolchhi (Me)   - Improved username generation.
+   @PikachuFromBd (Me)   - Improved username generation.
 
 
 ---------------------------------
    IDM Activator
 ---------------------------------
    
-   Homepage:	https://github.com/NaeemBolchhi/IDM-Activator
+   Homepage:	https://github.com/PikachuFromBd/IDM-Activator
    
-   Telegram:	https://t.me/NaeemBolchhi
+   Telegram:	https://t.me/PikachuFromBd
 
 ---------------------------------
 
